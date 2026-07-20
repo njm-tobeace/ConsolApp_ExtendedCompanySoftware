@@ -12,4 +12,4 @@ ExtendedCompanySoftware allows you to manage employees, their salaries, and thei
 My software is capable of adding, deleting, and editing employees. They are created with GUID IDs, and you can edit their first names, last names, work areas, and earnings. All data is stored in a JSON file.
 
 # IMPORTANT!
-This application is for demonstration purposes only. There will be no updates for the time being. Feel free to further develop and use this code. I would really appreciate any feedback!
+This application is for demonstration purposes only. This software is still a work in progress—however, there is no set schedule for updates. Feel free to download the code and customize it yourself. I would really appreciate any feedback!
