@@ -8,13 +8,11 @@ namespace ExtendedCompanySoftware.Department
     {
         public string DepartmentName { get; set; }
 
-        // Set Department
         public Department(string departmentName)
         {
             DepartmentName = departmentName;
         }
 
-        // Default Department
         public Department()
         {
             DepartmentName = "Beginners' Area";

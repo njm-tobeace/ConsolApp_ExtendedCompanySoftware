@@ -1,0 +1,5 @@
+D:\Development\Repositorys\ConsolApp_ExtendedCompanySoftware\obj\Debug\net10.0\ConsolApp_ExtendedCompanySoftware.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Repositorys\ConsolApp_ExtendedCompanySoftware\obj\Debug\net10.0\ConsolApp_ExtendedCompanySoftware.AssemblyInfoInputs.cache
+D:\Development\Repositorys\ConsolApp_ExtendedCompanySoftware\obj\Debug\net10.0\ConsolApp_ExtendedCompanySoftware.AssemblyInfo.cs
+D:\Development\Repositorys\ConsolApp_ExtendedCompanySoftware\obj\Debug\net10.0\ConsolApp_ExtendedCompanySoftware.csproj.CoreCompileInputs.cache
+D:\Development\Repositorys\ConsolApp_ExtendedCompanySoftware\obj\Debug\net10.0\ConsolApp_ExtendedCompanySoftware.sourcelink.json
