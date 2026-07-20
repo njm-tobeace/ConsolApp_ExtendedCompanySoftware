@@ -240,10 +240,6 @@ namespace ExtendedCompanySoftware.Menu
             Pause();
         }
 
-        // -------------------------
-        // Helper Methods
-        // -------------------------
-
         private string AskString(string label)
         {
             string input;

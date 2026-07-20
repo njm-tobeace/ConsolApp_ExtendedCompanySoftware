@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using ExtendedCompanySoftware.Employee;
+using ExtendedCompanySoftware.Salary;
+using ExtendedCompanySoftware.Department;
 
 namespace ExtendedCompanySoftware.Repository
 {
     public class EmployeeRepository
     {
-        private readonly string filePath = "employees.json";
+        private readonly string filePath = "EmployeeData.json";
         private List<Employee> employees = new List<Employee>();
 
         public void AddEmployee(Employee employee)
